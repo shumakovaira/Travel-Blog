@@ -1,0 +1,24 @@
+{
+  "name": "my-travel-blog",
+  "version": "1.0.0",
+  "description": "My own travel blog",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/IraShumakova/my-travel-blog.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/IraShumakova/my-travel-blog/issues"
+  },
+  "homepage": "https://gitlab.com/IraShumakova/my-travel-blog#readme",
+  "dependencies": {
+    "sweetalert": "^2.1.2",
+    "sweetalert2": "^11.4.19"
+  }
+}
