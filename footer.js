@@ -1,6 +1,6 @@
 let appFooter = `
 <footer class="tm-footer">
-    <p class="text-xs-center">All rights reserved &copy; 2021</p>
+    <p class="text-xs-center">Coded by <a href="https://www.linkedin.com/in/iryna-shumakova-b6ba381a1">Iryna Shumakova</a>. All rights reserved &copy; 2021</p>
     <br> 
 </footer>
 `;
