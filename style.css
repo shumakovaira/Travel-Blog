@@ -297,6 +297,6 @@ input:focus, textarea:focus {
 
 a{
   text-decoration: none;
-  font-weight: bold;
+  font-weight: 700;
   color: #ba7519;
 }
